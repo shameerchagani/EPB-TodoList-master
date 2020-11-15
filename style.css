@@ -50,6 +50,6 @@ body {
 input[type=checkbox]:checked {
     color: red;
 }
-.bdr-sq{
+/* .bdr-sq{
     border: 2px solid green;
-}
+} */
